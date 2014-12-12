@@ -1,4 +1,5 @@
-build
+build/*
 .classpath
 .project
 .settings
+*.java
